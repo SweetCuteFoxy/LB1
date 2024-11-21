@@ -8,7 +8,7 @@ namespace LB1
         {
             InitializeComponent();
         }
-        s
+        
         private void FormMain_Load(object sender, EventArgs e)
         {
             using (ApplicationContext db = new ApplicationContext())
